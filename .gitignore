@@ -1,0 +1,12 @@
+node_modules
+.vscode
+logs
+package-lock.json
+dummy.js
+.env
+public/images/categories
+public/images/groups
+public/images/products
+public/images/sub-groups
+public/images/brands
+public/images/subGroups
